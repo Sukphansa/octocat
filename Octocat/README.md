@@ -1,3 +1,3 @@
-Hello,this is Octocat Hi!!! <br />
+Hello,this is Octocat Hi!!! your students<br />
 I'm going to show you how I use ;)  <br />
 Let's start with git init Go!!!
